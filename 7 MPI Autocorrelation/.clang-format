@@ -1,0 +1,8 @@
+# Visual Studio generated .clang-format file
+
+BasedOnStyle: Google
+
+Language: Cpp
+IndentWidth: 4
+ColumnLimit: 100
+BreakBeforeBraces: Linux
